@@ -1,0 +1,6 @@
+To create LFR networks only need to use "Build-LFR-ldlf.bat" file.
+Edit content of this file and save it brfore execution.
+The produced LFR network is nameed with "network.dat" and its groundtruth is "commnuity.dat"
+The used data structure in "network.dat" is edge list. 
+Before use "network.dat", you need to convert it to adjancy list by providing the source code in LDLF.zip file with name "Convert LFR to Neighbor List.py"
+Since the provided and converted LFR networks has large size, we could not upload it.
